@@ -1,0 +1,4 @@
+name: BungeeChatFilter
+main : com.minecraftdimensions.bungeechatfilter.BungeeChatFilter
+version: Misoryan
+author: Bloodsplat, Zedwick, Misoryan
